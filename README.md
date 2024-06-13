@@ -10,3 +10,38 @@ The notebook is very lightweight and can run on both CPU and GPU. One needs to h
 - Matplotlib
 - scikit-learn
 - TensorFlow 2
+
+### Using CERN SWAN to run the tutorial
+
+Below are the instructions of how to run the tutorial on CERN SWAN.
+
+Requirements: CERNBox account
+
+1. First log into CERNBox (https://cernbox.cern.ch) before going to SWAN.
+2. Go to https://swan.cern.ch
+3. Initialize a session by selecting the default options:
+
+<img width="441" alt="image" src="https://github.com/jaychan-hep/US-ATLAS-Campfire-ML-Tutorial/assets/21131189/fae849a6-2417-4b42-b869-54a04db8bf71">
+
+4. Start the session.
+5. On the top right corner, click the terminal icon
+<img width="484" alt="image" src="https://github.com/jaychan-hep/US-ATLAS-Campfire-ML-Tutorial/assets/21131189/c3532f75-9cf1-41be-bbe0-ec0dc645f218">
+
+6. This will open a terminal in a new window. In the terminal, git clone the project. To do so, type:
+```
+git clone https://github.com/jaychan-hep/US-ATLAS-Campfire-ML-Tutorial.git
+```
+
+7. Go home by clicking the icon on the top left corner
+<img width="87" alt="image" src="https://github.com/jaychan-hep/US-ATLAS-Campfire-ML-Tutorial/assets/21131189/1d5c27ff-0118-4796-b507-6f85404263bf">
+
+8. Click to CERNBox tap
+<img width="591" alt="image" src="https://github.com/jaychan-hep/US-ATLAS-Campfire-ML-Tutorial/assets/21131189/4be55de1-c44e-473a-b5c2-b7ec751af771">
+
+9. Clck "US-ATLAS-Campfire-ML-Tutorial"
+10. Open the notebook "intro_NN.ipynb"
+
+Now you should be able to run the notebook!
+
+
+
