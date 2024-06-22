@@ -1,6 +1,6 @@
 ## Hadns-on tutorial on Machine Learning for USATLAS Campfire
 
-This tutorial is modifed from the the tuorial given by Kehang! (Link: https://github.com/usatlas-ml-training/lbnl-2023/tree/main/intro_tutorial_binary_classifier)
+This tutorial is modifed from the the tuorial given by Kehang Bai! (Link: https://github.com/usatlas-ml-training/lbnl-2023/tree/main/intro_tutorial_binary_classifier)
 
 There are two notebooks in this repository, one being the exercise notbook (`intro_NN.ipynb`), one being the solution (`intro_NN_solution.ipynb`). It is encouraged to run the exercise first before looking at the solution. Note that if you would like to dive more into details and more advanced topics on machine learning, please attend the US ATLAS Machine Learning Training Program.
 
