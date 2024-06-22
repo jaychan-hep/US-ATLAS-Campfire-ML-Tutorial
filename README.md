@@ -2,9 +2,9 @@
 
 There are two notebooks in this repository, one being the exercise notbook (`intro_NN.ipynb`), one being the solution (`intro_NN_solution.ipynb`). It is encouraged to run the exercise first before looking at the solution. Note that if you would like to dive more into details and more advanced topics on machine learning, please attend the US ATLAS Machine Learning Training Program.
 
-The US ATLAS Machine Learning Training Program 2024: details coming soon!
+The US ATLAS Machine Learning Training Program 2024: [https://indico.physics.lbl.gov/event/2850/](URL "https://indico.physics.lbl.gov/event/2850/" target="_blank")
 
-The US ATLAS Machine Learning Training Program 2023: https://indico.cern.ch/event/1264566/
+The US ATLAS Machine Learning Training Program 2023: [https://indico.cern.ch/event/1264566/](URL "https://indico.cern.ch/event/1264566/" target="_blank")
 
 ### Environment requirement
 
